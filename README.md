@@ -6,4 +6,4 @@ A reactor pattern based event handling library
 - reactor pattern based
 - epoll based: Non-blocking IO + IO Multiplexing + Single Thread
 - C++11 Implementation based: function/bind, smart pointer
-- Objection-based Paradigm
+- Object-based Paradigm
